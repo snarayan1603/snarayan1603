@@ -1,7 +1,7 @@
 <h1>Hi 👋, My name is Narayan Singh.</h1><br>
 
 # 💫About Me :<br>
-💫 I’m a Full Stack Web Developer specializing in building fast and attractive digital experiences.<br>
+💫 I’m a Software Developer specializing in building fast and attractive digital experiences.<br>
 🤝 Currently, Working as a Software Developer @Exalens.<br>
 🎓 MCA - pursuing (IGNOU)<br>
 👀 - Horror Thriller<br>
